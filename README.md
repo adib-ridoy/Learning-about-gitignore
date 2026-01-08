@@ -1,6 +1,6 @@
 # GitHub Node
 
-Simple Express server that responds with a random superhero name on the root route. Uses the `superheroes` package to generate the name.
+Simple Express server that responds with a random superhero name on the root route. Uses the `superheroes` package to generate the name. Using git to save the project in GitHub and use of gitignore.
 
 ## Prerequisites
 - Node.js 18+ recommended
